@@ -1,0 +1,37 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Front end development, also known as client-side development, focuses on the parts of software applications or websites that users interact with directly. This includes the visual aspects and interactive elements that run in the user's web browser. Front end developers work with HTML, CSS, and JavaScript to create a seamless and engaging user experience."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Back end development, or server-side development, involves the parts of software applications that users do not see but interact with indirectly. It encompasses the server, database, and application logic that process requests from the front end, perform operations, and send responses back to the user. "
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "UI/UX stands for User Interface and User Experience design. UI design is about creating visually appealing and functional interfaces that users can interact with. It involves layout, color schemes, typography, and graphic design elements. "
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Webflow is a web design tool that allows designers and developers to create responsive websites visually, without writing code. It's a platform that combines a visual design editor with a web content management system (CMS) and hosting service. With Webflow, developers can design, build, and launch professional websites that are fully customizable and optimized for search engines. "
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/projrct.png",
+      "title": "Ahuse",
+      "description": "A web page built for a home Bakery which includes a menu, gallery and contact form.",
+      "link": "https://pjayanth2006.github.io/HomeBakery/"
+    }
+  ]
+}
